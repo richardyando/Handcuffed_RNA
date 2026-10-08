@@ -6,8 +6,9 @@ This is a repository for the work: Handcuffed RNA for Precision Combinatory Canc
 Citation: To be determined
 
 ## Description of repository
-* data folder
-* analysis folder
+* DATA folder
+* notebook folder
+* Cellpose folder
 
 ## Requirements
 * See requirements.txt
