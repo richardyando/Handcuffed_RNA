@@ -8,3 +8,6 @@ Citation: To be determined
 ## Description of repository
 * data folder
 * analysis folder
+
+## Requirements
+* See requirements.txt
